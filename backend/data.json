@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Earbuds",
+    "description": "High-quality wireless Bluetooth earbuds with noise-canceling features and long battery life.",
+    "price": 49.99,
+    "reviews": [
+      {
+        "username": "JohnDoe123",
+        "rating": 5,
+        "comment": "Great sound quality and comfortable fit."
+      },
+      {
+        "username": "JaneSmith456",
+        "rating": 4,
+        "comment": "Good earbuds, but battery life could be better."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Smartwatch with Heart Rate Monitor",
+    "description": "Advanced smartwatch with heart rate monitor, GPS, and customizable watch faces.",
+    "price": 89.99,
+    "reviews": [
+      {
+        "username": "AliceLovesTech",
+        "rating": 5,
+        "comment": "Perfect for tracking workouts and health stats."
+      },
+      {
+        "username": "FitnessGuru",
+        "rating": 4,
+        "comment": "Feature-packed, but the GPS can be slow sometimes."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Ergonomic Office Chair",
+    "description": "Comfortable ergonomic office chair with lumbar support and adjustable height.",
+    "price": 199.99,
+    "reviews": [
+      {
+        "username": "OfficeWorker42",
+        "rating": 5,
+        "comment": "Very comfortable and supportive for long hours."
+      },
+      {
+        "username": "ChairCritic",
+        "rating": 3,
+        "comment": "Good chair, but the assembly was difficult."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Gaming Keyboard RGB Backlit",
+    "description": "Mechanical gaming keyboard with customizable RGB lighting and anti-ghosting keys.",
+    "price": 59.99,
+    "reviews": [
+      {
+        "username": "GamerX",
+        "rating": 5,
+        "comment": "Fantastic keyboard, great response and lighting options!"
+      },
+      {
+        "username": "KeyboardFan",
+        "rating": 4,
+        "comment": "Good feel, but a bit noisy."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "4K Ultra HD Smart TV",
+    "description": "55-inch 4K Ultra HD Smart TV with built-in streaming apps and voice control.",
+    "price": 499.99,
+    "reviews": [
+      {
+        "username": "HomeCinemaLover",
+        "rating": 5,
+        "comment": "Amazing picture quality and very easy to use."
+      },
+      {
+        "username": "TechyViewer",
+        "rating": 4,
+        "comment": "Good value, but sound quality could improve."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Stainless Steel Blender",
+    "description": "Powerful 1000W blender with stainless steel blades, perfect for smoothies and soups.",
+    "price": 79.99,
+    "reviews": [
+      {
+        "username": "SmoothieLover",
+        "rating": 5,
+        "comment": "Blends perfectly, easy to clean, and durable."
+      },
+      {
+        "username": "ChefAtHome",
+        "rating": 4,
+        "comment": "Great for smoothies but a bit noisy."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Air Fryer 5.8 Qt",
+    "description": "Healthy air fryer with digital touch screen, 8 cooking presets, and 5.8-quart capacity.",
+    "price": 129.99,
+    "reviews": [
+      {
+        "username": "HealthyEats",
+        "rating": 5,
+        "comment": "Cooks food perfectly with no added oil!"
+      },
+      {
+        "username": "HomeCook92",
+        "rating": 4,
+        "comment": "Great product, but a bit bulky for storage."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Cordless Vacuum Cleaner",
+    "description": "Lightweight cordless vacuum cleaner with powerful suction and detachable battery.",
+    "price": 149.99,
+    "reviews": [
+      {
+        "username": "CleanFreak",
+        "rating": 5,
+        "comment": "Super lightweight and perfect for quick cleaning."
+      },
+      {
+        "username": "DustBuster",
+        "rating": 4,
+        "comment": "Good vacuum, but battery life could be better."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Portable Espresso Machine",
+    "description": "Compact espresso machine, ideal for making coffee on-the-go.",
+    "price": 49.99,
+    "reviews": [
+      {
+        "username": "CoffeeLover",
+        "rating": 5,
+        "comment": "Perfect for my morning espresso fix while traveling!"
+      },
+      {
+        "username": "CafeEnthusiast",
+        "rating": 3,
+        "comment": "Convenient, but the espresso could be stronger."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Yoga Mat with Alignment Lines",
+    "description": "Non-slip yoga mat with alignment lines for better posture, made from eco-friendly materials.",
+    "price": 29.99,
+    "reviews": [
+      {
+        "username": "YogaPro",
+        "rating": 5,
+        "comment": "Excellent grip and the alignment lines are so helpful."
+      },
+      {
+        "username": "StretchingQueen",
+        "rating": 4,
+        "comment": "Great mat, though a bit thin for hard floors."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Adjustable Dumbbell Set",
+    "description": "Adjustable dumbbell set ranging from 5-50 lbs with a quick-change weight system.",
+    "price": 199.99,
+    "reviews": [
+      {
+        "username": "FitFanatic",
+        "rating": 5,
+        "comment": "Easy to adjust weights and very sturdy."
+      },
+      {
+        "username": "StrengthTrainer",
+        "rating": 4,
+        "comment": "Good quality but quite bulky."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Resistance Bands Set",
+    "description": "Set of 5 resistance bands with different levels, great for strength training and stretching.",
+    "price": 19.99,
+    "reviews": [
+      {
+        "username": "GymAtHome",
+        "rating": 5,
+        "comment": "Perfect for home workouts, and good quality bands."
+      },
+      {
+        "username": "StretchingNewbie",
+        "rating": 4,
+        "comment": "Great resistance levels, but colors could be brighter."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Stainless Steel Knife Set",
+    "description": "High-quality 15-piece knife set with a wooden block, perfect for any kitchen.",
+    "price": 79.99,
+    "reviews": [
+      {
+        "username": "ChefAtHome",
+        "rating": 5,
+        "comment": "Sharp, durable knives and a beautiful block."
+      },
+      {
+        "username": "KitchenLover",
+        "rating": 4,
+        "comment": "Good set, but handles could be more comfortable."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Ceramic Non-Stick Frying Pan",
+    "description": "12-inch non-stick frying pan with ceramic coating, PFOA-free and easy to clean.",
+    "price": 39.99,
+    "reviews": [
+      {
+        "username": "Foodie",
+        "rating": 5,
+        "comment": "Perfect non-stick surface, heats evenly."
+      },
+      {
+        "username": "HomeChef",
+        "rating": 4,
+        "comment": "Works well, but a bit heavy."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Men's Waterproof Jacket",
+    "description": "Lightweight waterproof jacket, suitable for outdoor activities and rainy weather.",
+    "price": 59.99,
+    "reviews": [
+      {
+        "username": "OutdoorGuy",
+        "rating": 5,
+        "comment": "Keeps me dry and comfortable during hikes."
+      },
+      {
+        "username": "RainyDayFan",
+        "rating": 4,
+        "comment": "Good jacket, but could use more pockets."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Women's Running Shoes",
+    "description": "Lightweight and breathable running shoes with cushioned support.",
+    "price": 69.99,
+    "reviews": [
+      {
+        "username": "RunnerGal",
+        "rating": 5,
+        "comment": "So comfortable and perfect for long runs!"
+      },
+      {
+        "username": "FitnessFan",
+        "rating": 4,
+        "comment": "Good fit, but could use more arch support."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "LED Desk Lamp with USB Charging",
+    "description": "Adjustable LED desk lamp with USB charging port and touch control.",
+    "price": 24.99,
+    "reviews": [
+      {
+        "username": "StudentLife",
+        "rating": 5,
+        "comment": "Perfect lighting and convenient charging port."
+      },
+      {
+        "username": "NightOwl",
+        "rating": 4,
+        "comment": "Great lamp, but would love a warmer light option."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Noise Cancelling Headphones",
+    "description": "Wireless over-ear headphones with active noise cancellation and long battery life.",
+    "price": 149.99,
+    "reviews": [
+      {
+        "username": "MusicLover",
+        "rating": 5,
+        "comment": "Amazing sound quality and noise cancellation."
+      },
+      {
+        "username": "TravelFan",
+        "rating": 4,
+        "comment": "Great for flights, but a bit heavy."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Electric Toothbrush with Smart Timer",
+    "description": "Rechargeable electric toothbrush with 3 cleaning modes and 2-minute timer.",
+    "price": 29.99,
+    "reviews": [
+      {
+        "username": "DentalCare",
+        "rating": 5,
+        "comment": "Cleans well and love the timer feature."
+      },
+      {
+        "username": "HealthySmile",
+        "rating": 4,
+        "comment": "Good toothbrush, but wish it came with a travel case."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Smart Light Bulbs (Pack of 4)",
+    "description": "Color-changing LED smart bulbs compatible with Alexa and Google Assistant.",
+    "price": 39.99,
+    "reviews": [
+      {
+        "username": "HomeAutomationFan",
+        "rating": 5,
+        "comment": "Love the colors and ease of setup!"
+      },
+      {
+        "username": "LightLover",
+        "rating": 4,
+        "comment": "Works well, but colors aren't as bright as expected."
+      }
+    ]
+  }
+]
